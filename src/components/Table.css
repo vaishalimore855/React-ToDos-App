@@ -1,0 +1,75 @@
+ table {
+    border: 1px solid forestgreen;
+    border-collapse: collapse;
+    width: auto;
+    height: 500px;
+    width: 100%;
+    margin: 0px 40px;
+   
+  }
+  .search{
+    position: relative;
+    position: absolute;
+    top:15%;
+    left:38%;
+    width: 12%;
+    height: 30px;
+    border-radius:30px;
+    border:none;
+    color:white;
+    background-color: navy;
+    font-size: 18px;
+    padding: 4px 10px;
+    font-weight: bold;
+
+   } 
+  th {
+    border: 1px solid black;
+    padding: 10px 10px;
+    background-color:navy;
+    color:white;
+  }
+    
+  td {
+    text-align: center;
+    background-color:rgb(198, 207, 216);
+    color:black;
+  }
+  
+  table, td, th {
+    border: 1px solid black;
+  }
+  li{
+      margin-top: 5px;
+      list-style: none;
+  }
+  .App {
+    width: 100%;
+    height: auto;
+    margin-top: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .userDetails{
+    
+    height: 25vh;
+    width:25%;
+    padding: 60px 50px;
+    background-color:navy;
+    color:white;
+    position: relative;
+    position: absolute;
+    top:30%;
+    text-align: center;
+    right: 10%;
+    
+  }
+  .userDetails div {
+    text-align: start;
+    margin: 20px 10px;
+  }
+  strong{
+    margin-left: 100px;
+  }
+  

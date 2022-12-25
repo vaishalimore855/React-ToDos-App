@@ -1,0 +1,15 @@
+body{
+    margin-top: 0;
+    padding: 0px;
+    position: relative;
+    background-color:skyblue;
+  }
+  .header{
+    background-color: black;
+    color:white;
+    height: 7vh;
+    text-align: center;
+    padding: 2px 4px;
+  
+  }
+   
